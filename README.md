@@ -3,6 +3,7 @@ Front-End Locadora
 Este é o Front-end da locadora, construído com HTML, CSS e JavaScript. É a interface de usuário para:
 
 *Cadastrar Clientes.
+
 *Buscar Filmes em catálogo externo.
 
 ------------------------------------------------------------------------------------------------------
