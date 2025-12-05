@@ -18,6 +18,7 @@ Validações do Front-end
 A interface aplica checagens de qualidade nos dados antes de enviar para a API:
 
 Clientes: Valida a estrutura de CPF e Telefone, garantindo que todos os campos obrigatórios estejam preenchidos no cadastro.
+
 Busca: Exige o Título para iniciar a busca de filmes.
 
 ------------------------------------------------------------------------------------------------------
